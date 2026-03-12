@@ -91,4 +91,4 @@ Data Safety: API keys and confidential data are not pushed to the repository.
 
 👨‍💻 Developed By
 
-Aman Kumar,Adarsh Patel,Amit kumar,Abhishek Chauhan
+Adarsh Patel,Amit kumar,Abhishek Chauhan,Aman Kumar
